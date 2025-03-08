@@ -3,8 +3,12 @@
   "description": "MaxKuB Example Dev",
   "objlib": "&lib1",
   "curlib": "&lib1",
-  "includePath": [],
-  "preUsrlibl": ["&lib1"],
+  "includePath": [
+    "includes"
+  ],
+  "preUsrlibl": [
+    "&lib1"
+  ],
   "postUsrlibl": [],
   "setIBMiEnvCmd": [],
   "repository": "",

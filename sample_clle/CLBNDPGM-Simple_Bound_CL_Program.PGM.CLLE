@@ -1,0 +1,7 @@
+PGM PARM(&MSG)
+
+  INCLUDE SRCSTMF('include.clleinc') 
+
+  SNDPGMMSG MSG(&MSG) MSGTYPE(*COMP)
+
+ENDPGM
