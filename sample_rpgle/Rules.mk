@@ -1,2 +1,7 @@
 HELLOWORLD.PGM: helloworld-simple.pgm.rpgle
-HELLO2.PGM: helloworld-simple2.pgm.rpgle
+
+HELLOADV.MODULE: HELLOADV-Advanced_HelloWorld.rpgle
+HELLOINC.MODULE: HELLOINC-Helloworld_using_copybook.rpgle 
+
+HELLOADV.PGM: HELLOADV.MODULE
+HELLOINC.PGM: HELLOINC.MODULE

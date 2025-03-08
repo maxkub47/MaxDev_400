@@ -1,1 +1,1 @@
-SUBDIRS = includes sample_clle sample_rpgle  
+SUBDIRS = includes sample_clle sample_rpgle  services binders
